@@ -1,0 +1,39 @@
+CONVERTER
+
+https://www.astrouw.edu.pl/~jskowron/ra-dec/
+
+
+HE1113-0641
+
+https://simbad.u-strasbg.fr/simbad/sim-ref?querymethod=bib&simbo=on&submit=submit+bibcode&bibcode=2008AJ....135..374B
+
+A, B, C, D, G
+
+11 16 23.56	-06 57 38.6
+11 16 23.53	-06 57 38.2
+11 16 23.53	-06 57 38.7
+11 16 23.55	-06 57 38.2
+11 16 23.54	-06 57 38.4
+
+169.0981667	-6.9607222
+169.0980417	-6.9606111
+169.0980417	-6.96075
+169.098125	-6.9606111
+169.0980833	-6.9606667
+
+
+H1413+117 A
+
+https://simbad.u-strasbg.fr/simbad/sim-ref?querymethod=bib&simbo=on&submit=submit+bibcode&bibcode=1988Natur.334..325M
+
+A, B, C, D
+
+14 15 46.29 	+11 29 42.7 
+14 15 46.34 	+11 29 42.9 
+14 15 46.26 	+11 29 43.4 
+14 15 46.31 	+11 29 43.7 
+
+213.9428750    11.4951944
+213.9430833    11.4952500
+213.9427500    11.4953889
+213.9429583    11.4954722
